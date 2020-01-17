@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { Jumbotron, Grid, Row, Col, Image, Button } from "react-bootstrap";
+import { Jumbotron, Grid, Row, Button } from "react-bootstrap";
 import SocialMediaIcons from "react-social-media-icons";
 import "./Home.css";
 

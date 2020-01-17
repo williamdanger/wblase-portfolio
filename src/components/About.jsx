@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Grid, Col, Image, Row } from "react-bootstrap";
+import { Grid, Col, Image } from "react-bootstrap";
 import "./About.css";
 
 export default class About extends Component {
